@@ -1,7 +1,7 @@
 # Moyiza - 모임 서비스
 이 프로젝트는 사용자들이 모임을 생성하고, 참가하며, 서로 소통할 수 있는 공간을 제공하는 웹 애플리케이션입니다. 
 
-![모이자썸네일](https://file.notion.so/f/s/b0217d60-40f3-4aa8-997c-d28ed8c3dc07/Frame_14.png?id=8d4c7847-2a61-4c77-9872-21e31dbac007&table=block&spaceId=d15a4e1d-e301-4395-ba47-1d253789fd34&expirationTimestamp=1688104800000&signature=l60iROXmN0HANBOSna-gMskBMcly-99ZiSQADyBQYVA&downloadName=Frame+14.png)
+![모이자썸네일](https://github.com/H99-FinalProj-Moyiza/Moyiza_FE/assets/124552434/fd5ebdec-201d-4992-b5b9-39fdfb09a9b0)
 
 <br/>
 
@@ -54,7 +54,7 @@
 </br>
 
 ## ✔️ 기술 아키텍쳐
-![아키텍쳐](https://file.notion.so/f/s/1442a192-6fd6-486f-8685-9739bb8a0a01/architecture.jpg?id=f9071ddd-a209-4dd1-a8ac-d33ca7019502&table=block&spaceId=d15a4e1d-e301-4395-ba47-1d253789fd34&expirationTimestamp=1688104800000&signature=dsWM4k0SmG8aVtP2kvoIyelBJMozwcba1hxdsrVwLU4&downloadName=architecture.jpg)
+![아키텍쳐](https://github.com/H99-FinalProj-Moyiza/Moyiza_FE/assets/124552434/e57c7862-0e8b-44a1-b900-a275ecfc0723)
 
 <br/>
 
